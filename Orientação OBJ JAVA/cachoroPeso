@@ -1,0 +1,9 @@
+public class cachorro{
+    private String nome;
+    private int peso;
+    private int idade;
+    public boolean vivo;
+    
+}
+
+public cachorro(string nome, int peso, int idade, boolean)
